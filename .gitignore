@@ -1,0 +1,10 @@
+# KDB+ generated files
+*.log
+*Zone.Identifier
+
+# KDB+ symbol log files (binary data)
+sym2*
+
+# OS files
+.DS_Store
+Thumbs.db
